@@ -1,6 +1,6 @@
-#Trilha HTML - Dio.me
+# Trilha HTML - Dio.me
 
-##Módulo 01 - HTML I - Conceitos Básicos
+## Módulo 01 - HTML I - Conceitos Básicos
 
 Olá, nesse modelo de página foram feitos alguns exemplos de parágrafos assim como outras tags abaixo citadas:
 
